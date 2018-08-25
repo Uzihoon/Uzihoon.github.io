@@ -2,10 +2,10 @@
 title: 'Uzihoon'
 description: '안까먹기 위해 작성하는 블로그'
 keyword: 'javascript, react, vuejs, angular, html, css'
-url: 'http://liaokeyu.com' # your host
+url: 'http://uzihoon.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: 'uzihoon.github.io'
+baseurl:
 
 # Navigation links
 nav:
