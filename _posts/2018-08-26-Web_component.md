@@ -5,10 +5,10 @@ date: 2018-08-25
 author: Uzihoon
 comments: true
 #cover: '/assets/img/hero.jpg'
-tags: es6, javascript
+tags: es6 javascript
 ---
 
-##new Map()
+new Map()
 ===========
 
 ES6에서부터 새로 도입된 데이터 구조로서 *맵(map)* 과 *셋(set)*이 있다.  
